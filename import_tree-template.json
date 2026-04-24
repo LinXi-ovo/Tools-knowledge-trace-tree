@@ -1,0 +1,51 @@
+{
+  "name": "项目总览",
+  "level": 0,
+  "type": "基础",
+  "children": [
+    {
+      "name": "大赛流程与规则",
+      "level": 1,
+      "type": "必须掌握",
+      "children": [
+        { "name": "校赛/省赛/国赛", "level": 2, "type": "必须掌握", "children": [] },
+        { "name": "仲裁办法", "level": 2, "type": "必须掌握", "children": [] }
+      ]
+    },
+    {
+      "name": "技术报告与答辩",
+      "level": 1,
+      "type": "必须掌握",
+      "children": [
+        { "name": "报告撰写", "level": 2, "type": "必须掌握", "children": [] },
+        { "name": "答辩技巧", "level": 2, "type": "必须掌握", "children": [] }
+      ]
+    },
+    {
+      "name": "Python编程",
+      "level": 1,
+      "type": "前置知识",
+      "children": [
+        { "name": "基础语法", "level": 2, "type": "前置知识", "children": [] },
+        { "name": "NumPy", "level": 2, "type": "前置知识", "children": [] }
+      ]
+    },
+    {
+      "name": "ROS/ROS2",
+      "level": 1,
+      "type": "必须掌握",
+      "children": [
+        { "name": "话题通信", "level": 2, "type": "必须掌握", "children": [] },
+        { "name": "TF坐标变换", "level": 2, "type": "必须掌握", "children": [] }
+      ]
+    },
+    {
+      "name": "人工智能创新赛",
+      "level": 1,
+      "type": "加分能力",
+      "children": [
+        { "name": "大模型应用", "level": 2, "type": "加分能力", "children": [] }
+      ]
+    }
+  ]
+}

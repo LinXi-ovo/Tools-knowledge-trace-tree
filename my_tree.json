@@ -1,0 +1,998 @@
+[
+  {
+    "name": "项目总览",
+    "level": 0,
+    "type": "基础",
+    "children": [
+      {
+        "name": "大赛流程与规则",
+        "level": 1,
+        "type": "必须掌握",
+        "children": [
+          {
+            "name": "校赛/省赛/国赛",
+            "level": 2,
+            "type": "必须掌握",
+            "children": []
+          },
+          {
+            "name": "仲裁办法",
+            "level": 2,
+            "type": "必须掌握",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "技术报告与答辩",
+        "level": 1,
+        "type": "必须掌握",
+        "children": [
+          {
+            "name": "报告撰写",
+            "level": 2,
+            "type": "必须掌握",
+            "children": []
+          },
+          {
+            "name": "答辩技巧",
+            "level": 2,
+            "type": "必须掌握",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Python编程",
+        "level": 1,
+        "type": "前置知识",
+        "children": [
+          {
+            "name": "基础语法",
+            "level": 2,
+            "type": "前置知识",
+            "children": []
+          },
+          {
+            "name": "NumPy",
+            "level": 2,
+            "type": "前置知识",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "ROS/ROS2",
+        "level": 1,
+        "type": "必须掌握",
+        "children": [
+          {
+            "name": "话题通信",
+            "level": 2,
+            "type": "必须掌握",
+            "children": []
+          },
+          {
+            "name": "TF坐标变换",
+            "level": 2,
+            "type": "必须掌握",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "人工智能创新赛",
+        "level": 1,
+        "type": "加分能力",
+        "children": [
+          {
+            "name": "大模型应用",
+            "level": 2,
+            "type": "加分能力",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "人工智能创新赛知识体系",
+    "level": 0,
+    "type": "root",
+    "children": [
+      {
+        "name": "比赛规则与流程",
+        "level": 1,
+        "type": "基础",
+        "children": [
+          {
+            "name": "报名与材料提交",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "报名系统操作",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "报名表填写规范",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "查新报告格式与要求",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "项目研究报告结构",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "佐证材料准备",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "评分标准解读",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "项目可行性与实用性 (A项)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "项目技术难度 (B项)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "项目创新度 (C项)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "项目完成度 (D项)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "队员贡献程度 (E项)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "答辩表现加分 (F项)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "答辩流程",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "线上答辩设备准备",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "答辩时间分配 (讲解10分钟+提问5分钟)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "答辩顺序与抽签",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "仲裁办法",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "申诉流程与时限",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "申诉材料要求",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "人工智能技术基础",
+        "level": 1,
+        "type": "基础",
+        "children": [
+          {
+            "name": "Python编程基础",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "变量与数据类型",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "控制流 (if/for/while)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "函数定义与使用",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "面向对象编程 (类与对象)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "常用标准库 (os, sys, json, datetime)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "第三方库安装与导入 (pip)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "错误与异常处理",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "数据处理与预处理",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "NumPy数组操作",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "Pandas数据读取与清洗",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "数据可视化基础 (Matplotlib)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "缺失值处理",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "数据标准化与归一化",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "训练集/测试集划分",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "机器学习基础",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "监督学习概念",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "无监督学习概念",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "过拟合与欠拟合",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "交叉验证",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "评价指标 (准确率, 精确率, 召回率, F1分数, AUC)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "经典机器学习算法",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "线性回归",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "逻辑回归",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "决策树与随机森林",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "支持向量机 (SVM)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "K近邻算法 (KNN)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "K均值聚类 (K-Means)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "主成分分析 (PCA)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "深度学习基础",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "神经网络基本结构",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "激活函数 (ReLU, Sigmoid, Tanh)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "损失函数 (交叉熵, 均方误差)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "反向传播与梯度下降",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "优化器 (SGD, Adam)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "学习率衰减",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "深度学习框架",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "TensorFlow/Keras基础",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "PyTorch基础",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "模型保存与加载",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "GPU加速使用",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "常用深度学习模型",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "卷积神经网络 (CNN) 原理",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "经典CNN结构 (LeNet, AlexNet, VGG, ResNet)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "循环神经网络 (RNN) 原理",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "LSTM与GRU",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "Transformer与自注意力机制",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "生成对抗网络 (GAN) 简介",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "自然语言处理 (NLP)",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "文本预处理 (分词、去停用词)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "词向量 (Word2Vec, GloVe)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "序列模型与文本分类",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "预训练语言模型 (BERT, GPT基本概念)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "计算机视觉 (CV)",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "图像读取与基本操作 (OpenCV)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "图像分类任务",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "目标检测基础 (YOLO, SSD概念)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "图像分割简介",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "大模型应用",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "提示工程 (Prompt Engineering)",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "大模型API调用",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "模型微调 (Fine-tuning) 基础",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "项目设计与创新方法",
+        "level": 1,
+        "type": "核心",
+        "children": [
+          {
+            "name": "人工智能应用场景挖掘",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "行业痛点分析 (医疗、教育、交通、农业等)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "技术匹配与可行性初步判断",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "创新点提炼方法",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "TRIZ创新方法简介",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "从现有研究找空白点",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "多学科交叉创新",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "技术路线设计",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "系统架构图绘制",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "功能模块划分",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "数据流与算法流程设计",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "市场与社会价值分析",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "目标用户与市场规模估算",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "社会效益论述",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "项目研究报告撰写",
+        "level": 1,
+        "type": "基础",
+        "children": [
+          {
+            "name": "报告各章节写法",
+            "level": 2,
+            "type": "基础",
+            "children": [
+              {
+                "name": "题目与摘要提炼",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "项目背景与国内外研究现状综述",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "研究内容与技术路线描述",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "创新点清晰表述",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "应用前景与社会价值撰写",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "问题与改进方向讨论",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              },
+              {
+                "name": "参考文献格式 (GB/T 7714)",
+                "level": 3,
+                "type": "基础",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "文献检索与查新",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "中英文文献数据库使用 (CNKI, IEEE Xplore, Google Scholar)",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "检索词构建与筛选",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "查新报告撰写要点",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "专利检索入门",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "答辩与展示",
+        "level": 1,
+        "type": "核心",
+        "children": [
+          {
+            "name": "PPT设计与制作",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "整体结构安排 (问题-方法-结果-价值)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "图表与可视化呈现",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "避免过多文字，突出关键信息",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "演讲与表达",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "时间控制技巧 (10分钟讲解)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "语言表达清晰度与逻辑性",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "演示与实操展示",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "评委提问应对",
+            "level": 2,
+            "type": "核心",
+            "children": [
+              {
+                "name": "常见问题类型 (技术细节、创新性、应用场景等)",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              },
+              {
+                "name": "回答策略：实事求是，突出贡献",
+                "level": 3,
+                "type": "核心",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "技术实现与系统开发",
+        "level": 1,
+        "type": "进阶",
+        "children": [
+          {
+            "name": "前端界面开发 (可选)",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "HTML/CSS基础",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "简单Web框架 (Flask/Streamlit)",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "后端与接口开发 (可选)",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "RESTful API设计",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "数据库基础 (MySQL/MongoDB)",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "模型部署 (可选)",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "模型转换为ONNX或TensorRT",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "使用Docker打包应用",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "团队协作与项目管理",
+        "level": 1,
+        "type": "进阶",
+        "children": [
+          {
+            "name": "Git版本控制基础",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "仓库初始化与克隆",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "提交、推送与拉取",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "分支管理与合并",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "团队沟通与分工",
+            "level": 2,
+            "type": "进阶",
+            "children": [
+              {
+                "name": "任务分配与甘特图",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              },
+              {
+                "name": "定期会议与进度同步",
+                "level": 3,
+                "type": "进阶",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
